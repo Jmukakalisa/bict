@@ -224,7 +224,7 @@ img {
 	height: 40px;
 	margin-top: 32px;
 	right: 0;
-	color: red;
+	color: #fff;
 	background-color: #FAD201;
 	position: absolute;
 	clip-path: circle(49.7% at 91% 89%);
@@ -241,11 +241,6 @@ img {
 	height:3.125rem;
 	color: #fff;
 	position: absolute;
-
-}
-
-
-.spokesperson {
 
 }
 
@@ -1209,7 +1204,7 @@ details .responses {
 		color: #00A1DE;
 	}
 
-	.infoli {
+	.info li {
 
 		background-color: #fff;
 		list-style-type: none;
